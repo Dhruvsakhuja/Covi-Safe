@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Covi-Safe</string>
+    <string name="qr_code">QR_code</string>
+</resources>
