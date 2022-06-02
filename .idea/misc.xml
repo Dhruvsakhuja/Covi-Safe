@@ -11,7 +11,7 @@
         <entry key="..\:/Users/sakhu/AndroidStudioProjects/CoviSafe/app/src/main/res/drawable/ic_password.xml" value="0.1735" />
         <entry key="..\:/Users/sakhu/AndroidStudioProjects/CoviSafe/app/src/main/res/drawable/round_border.xml" value="0.1735" />
         <entry key="..\:/Users/sakhu/AndroidStudioProjects/CoviSafe/app/src/main/res/drawable/wave.xml" value="0.236" />
-        <entry key="..\:/Users/sakhu/AndroidStudioProjects/CoviSafe/app/src/main/res/layout/activity_attendance.xml" value="0.24365942028985507" />
+        <entry key="..\:/Users/sakhu/AndroidStudioProjects/CoviSafe/app/src/main/res/layout/activity_attendance.xml" value="0.264" />
         <entry key="..\:/Users/sakhu/AndroidStudioProjects/CoviSafe/app/src/main/res/layout/activity_faculty_login_portal.xml" value="0.264" />
         <entry key="..\:/Users/sakhu/AndroidStudioProjects/CoviSafe/app/src/main/res/layout/activity_faculty_portal.xml" value="0.2" />
         <entry key="..\:/Users/sakhu/AndroidStudioProjects/CoviSafe/app/src/main/res/layout/activity_forgot_password.xml" value="0.24547101449275363" />
@@ -21,6 +21,7 @@
         <entry key="..\:/Users/sakhu/AndroidStudioProjects/CoviSafe/app/src/main/res/layout/activity_student_login_portal.xml" value="0.2" />
         <entry key="..\:/Users/sakhu/AndroidStudioProjects/CoviSafe/app/src/main/res/layout/activity_student_portal.xml" value="0.24547101449275363" />
         <entry key="..\:/Users/sakhu/AndroidStudioProjects/CoviSafe/app/src/main/res/layout/recycler_view_layout.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/sakhu/AndroidStudioProjects/CoviSafe/app/src/main/res/layout/row.xml" value="0.24365942028985507" />
         <entry key="..\:/Users/sakhu/AndroidStudioProjects/CoviSafe/app/src/main/res/layout/slot_select.xml" value="0.24365942028985507" />
       </map>
     </option>
